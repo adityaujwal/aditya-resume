@@ -16,14 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 70%
-    icon: fa-java
-    icon_pack: fa-brands
+  - description: Intermediate
+    icon: java
+    icon_pack: fab
     name: Java
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
+  - description: Basic
+    icon: python
+    icon_pack: fab
     name: Statistics
+  - description: Intermediate
+    icon: js
+    icon_pack: fab
+    name: Java Script
   - description: 10%
     icon: camera-retro
     icon_pack: fas
