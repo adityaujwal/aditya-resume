@@ -29,7 +29,7 @@ feature:
     icon_pack: fab
     name: Java Script
   - description: Intermediate
-    icon: guitar-electric
+    icon: guitar
     icon_pack: fab
     name: Metal
 # Uncomment to use emoji icons.
