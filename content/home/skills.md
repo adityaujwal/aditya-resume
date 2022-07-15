@@ -31,7 +31,7 @@ feature:
   - description: Intermediate
     icon: guitar
     icon_pack: fab
-    name: Metal
+    name: Guitar
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
