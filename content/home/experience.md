@@ -39,7 +39,7 @@ experience:
   - title: Volunteer
     company: Kitaab Club
     company_url: ''
-    company_logo: Kitaab Club
+    company_logo: KitaabClub
     location: Rajasthan
     date_start: '2019-02-21'
     date_end: ''
