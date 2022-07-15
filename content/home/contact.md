@@ -26,14 +26,14 @@ content:
 
   # Contact details (edit or remove options as required)
   email: itsadityaujwal@gmail.com
-  phone: +91 7738136591
-  address:
-    street: A1301, Melodia, Gandhi Path West
-    city: Jaipur
-    region: Rajasthan
-    postcode: '302021'
-    country: India
-    country_code: IN
+  #phone: +91 7738136591
+  #address:
+  #  street: A1301, Melodia, Gandhi Path West
+   # city: Jaipur
+   # region: Rajasthan
+   # postcode: '302021'
+   # country: India
+   # country_code: IN
   contact_links:
     - icon: linkedin
       icon_pack: fab
