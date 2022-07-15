@@ -64,16 +64,16 @@ experience:
          
          * Voluteer teacher
 
-    - title: Volunteer Model United Nations
-      company: JPHS
-      company_url: ''
-      location: Jaipur
-      date_start: '2020-02-21'
-      date_end: '2020-06-21'
-      description: |2-
-          Responsibilities include:
+  - title: Volunteer Model United Nations
+    company: JPHS
+    company_url: ''
+    location: Jaipur
+    date_start: '2020-02-21'
+    date_end: '2020-06-21'
+    description: |2-
+        Responsibilities include:
 
-          * Build web site
+        * Build web site
  
    
 design:
