@@ -23,15 +23,15 @@ feature:
   - description: Basic
     icon: python
     icon_pack: fab
-    name: Statistics
+    name: Python
   - description: Intermediate
     icon: js
     icon_pack: fab
     name: Java Script
-  - description: 10%
-    icon: camera-retro
+  - description: Intermediate
+    icon: guitar-electric
     icon_pack: fas
-    name: Photography
+    name: Metal
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
