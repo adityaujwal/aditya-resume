@@ -31,7 +31,7 @@ education:
       year: 2023
       result: Yet to appear
     - course: Class X CBSE
-      institution: 96.8 %
+      institution: 96 %
       year: 2021
 
     
