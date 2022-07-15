@@ -27,13 +27,13 @@ interests:
 education:
   courses:
     - course: Class XII CBSE 
-      institution: JPHS
+      institution: Yet to appear
       year: 2023
-      result: Yet to come
+      result: Yet to appear
     - course: Class X CBSE
-      institution: JPHS
+      institution: 96 %
       year: 2021
-      result: 96.8 %
+
     
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -72,5 +72,5 @@ highlight_name: true
 
 Aditya Ujwal is a high school senior at JPHS Jaipur. His majors are Math, Physics, Chemistry, English and Physical Education . He likes programming and is the founder and presedent of the Web Development Club at JPHS .
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I love programming and also like reading.
 
