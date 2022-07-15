@@ -29,7 +29,7 @@ education:
     - course: Class XII CBSE 
       institution: JPHS
       year: 2023
-      result: Yet to come
+      result: Yet to appear
     - course: Class X CBSE
       institution: JPHS
       year: 2021
