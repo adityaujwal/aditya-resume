@@ -55,7 +55,7 @@ experience:
   - title: Volunteer
     company: Prayas foundation
     company_url: ''
-    company_logo: Prayaas
+    company_logo: prayaas
     location: Noida
     date_start: '2019-02-21'
     date_end: ''
