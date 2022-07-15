@@ -25,7 +25,7 @@ experience:
   - title: President & Founder
     company: Information Technology Club
     company_url: ''
-    company_logo: jphs
+    #company_logo: jphs
     location: Jaipur
     date_start: '2022-03-20'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Volunteer
     company: Kitaab Club
     company_url: ''
-    company_logo: kitaabclub
+    #company_logo: kitaabclub
     location: Rajasthan
     date_start: '2019-02-21'
     date_end: ''
@@ -55,7 +55,7 @@ experience:
   - title: Volunteer
     company: Prayas foundation
     company_url: ''
-    company_logo: prayaas
+    #company_logo: prayaas
     location: Noida
     date_start: '2019-02-21'
     date_end: ''
