@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: President & Founder
-    company: Information Technology Club
+    company: Information Technology Club JPHS
     company_url: ''
     #company_logo: jphs
     location: Jaipur
@@ -62,7 +62,19 @@ experience:
     description: |2-
          Responsibilities include:
          
-         * Voluteer teacher 
+         * Voluteer teacher
+
+  - title: Volunteer 
+    company: Model United Nations JPHS
+    company_url: ''
+    location: Jaipur
+    date_start: '2020-02-21'
+    date_end: '2020-06-21'
+    description: |2-
+        Responsibilities include:
+
+        * Web Design
+        * Web Development
  
    
 design:
