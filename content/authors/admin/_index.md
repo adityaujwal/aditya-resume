@@ -27,13 +27,13 @@ interests:
 education:
   courses:
     - course: Class XII CBSE 
-      institution: JPHS
+      institution: Yet to appear
       year: 2023
       result: Yet to appear
     - course: Class X CBSE
-      institution: JPHS
+      institution: 96.8 %
       year: 2021
-      result: 96.8 %
+
     
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
