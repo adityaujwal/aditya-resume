@@ -38,7 +38,7 @@ content:
     - icon: linkedin
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://www.linkedin.com/in/aditya-ujwal-9a8529242/'
     
 design:
   columns: '2'
