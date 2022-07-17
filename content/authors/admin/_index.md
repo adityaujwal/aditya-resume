@@ -43,18 +43,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/adityaujwal
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/aditya-ujwal-9a8529242/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,7 +64,7 @@ email: ''
 highlight_name: true
 ---
 
-Aditya Ujwal is a high school senior at JPHS Jaipur. His majors are Math, Physics, Chemistry, English and Physical Education . He likes programming and is the founder and presedent of the Web Development Club at JPHS .
+I am a high school senior at JPHS Jaipur. My majors are Math, Physics, Chemistry, English and Physical Education . He likes programming and is the founder and president of the Information Technology Club at JPHS .
 
 I love programming and also like reading.
 
