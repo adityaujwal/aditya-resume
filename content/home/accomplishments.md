@@ -23,11 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - title: 1st prize Inter School AI - Thon
+    organization: IBM
+    date_start: '2021-01-25'
   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-25'
     description: ''
-    organization: Coursera
+    organization: IBM
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
