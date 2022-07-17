@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ngofinder"
+title: "Ngo Finder"
 summary: "Place holder for NGO finder description"
 authors: []
 tags: []
