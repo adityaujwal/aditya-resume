@@ -1,16 +1,19 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Thalaivar API
+summary: Rajni sir aka Thalaivar is a bigger chad than Chuck Noris.  This API randomly selects a joke and uses google search APIs to fetch and display an image that suits the joke. It is funny.
+
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - API
+  - Java
+  - Meme
+date: '2022-01-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://thalaivar-api.herokuapp.com/jokes/ui'
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+image: 'thalaivarapi'
+  #caption: Photo by rawpixel on Unsplash
+  #focal_point: Smart
 
 links:
   - icon: twitter
