@@ -1,7 +1,7 @@
 ---
 title: Thalaivar API
-summary: Rajni sir aka Thalaivar is a bigger chad than Chuck Noris.  This API randomly selects a joke and uses google search APIs to fetch and display an image that suits the joke. It is funny.
-{{< figure src="thalaivarapi.jpg" caption="A caption" numbered="true" >}}
+summary: Rajni sir aka Thalaivar is a bigger chad than Chuck Noris.  This API randomly selects a joke and uses google search APIs to fetch and display an image that suits the joke. It is funny. {{< figure src="thalaivarapi.jpg" caption="A caption" numbered="true" >}}
+
 
 
 tags:
