@@ -12,8 +12,8 @@ date: '2022-01-23T00:00:00Z'
 external_link: 'https://thalaivar-api.herokuapp.com/jokes/ui'
 
 image: 'thalaivarapi'
-  #caption: Photo by rawpixel on Unsplash
-  #focal_point: Smart
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 links:
   - icon: twitter
