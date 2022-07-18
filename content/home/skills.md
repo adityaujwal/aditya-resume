@@ -30,7 +30,7 @@ feature:
     name: Java Script
   - description: Intermediate
     icon: guitar
-    icon_pack: fab
+    icon_pack: custom
     name: Guitar
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
