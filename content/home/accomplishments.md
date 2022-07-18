@@ -26,6 +26,8 @@ item:
   - title: 1st prize Inter School AI - Thon
     organization: IBM
     date_start: '2021-01-25'
+    organization_url: https://www.imb.com
+    description: 'Won first prize in interschool AI competition held by IBM. Learned about Watson AI and implemented a medication prescription chatbot. '
   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-25'
