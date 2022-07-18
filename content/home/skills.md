@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 65
 
 title: Skills
 subtitle:
@@ -30,7 +30,7 @@ feature:
     name: Java Script
   - description: Intermediate
     icon: guitar
-    icon_pack: fab
+    icon_pack: custom
     name: Guitar
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
