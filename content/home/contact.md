@@ -41,5 +41,5 @@ content:
       link: 'https://www.linkedin.com/in/aditya-ujwal-9a8529242/'
     
 design:
-  columns: '1'
+  columns: '2'
 ---
