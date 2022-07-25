@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "This website"
-summary: "Rather than making the web site from scratch using HTML and CSS, I learned awesome tool called hugo and wowchemy. "
+summary: "Rather than making the web site from scratch using HTML and CSS, I learned awesome tools called hugo and wowchemy. Making profressional looking websites is easy and fun now !! "
 authors: []
 tags: []
 categories: []
