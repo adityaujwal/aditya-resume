@@ -40,6 +40,6 @@ content:
       name: DM Me
       link: 'https://www.linkedin.com/in/aditya-ujwal-9a8529242/'
     
-design:
-  columns: '2'
+#design:
+#  columns: '2'
 ---
