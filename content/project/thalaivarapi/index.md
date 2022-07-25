@@ -7,6 +7,7 @@ authors: []
 tags: ["API", "Java"]
 categories: ["Jokes"]
 date: 2022-07-17T10:34:56+05:30
+weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://thalaivar-api.herokuapp.com/jokes/ui"
