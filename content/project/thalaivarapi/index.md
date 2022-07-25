@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Thalaivar API"
-summary: Rajni sir aka Thalaivar is a bigger chad than Chuck Noris.  This API randomly selects a joke and uses google search APIs to fetch and display an image that suits the joke. It is funny.
+summary: Rajni sir aka Thalaivar is a bigger chad than Chuck Noris.  This API randomly selects a joke and uses google search APIs to fetch and display an image that suits the joke. It is funny. [Click Here to get a smile](https://thalaivar-api.herokuapp.com/jokes/ui)
 authors: []
 tags: ["API", "Java"]
 categories: ["Jokes"]
@@ -21,5 +21,5 @@ image:
 
 ---
 
-[UI](https://thalaivar-api.herokuapp.com/jokes/random)
+[Click Here to get a smile](https://thalaivar-api.herokuapp.com/jokes/ui)
 [JSON](https://thalaivar-api.herokuapp.com/jokes/random)
