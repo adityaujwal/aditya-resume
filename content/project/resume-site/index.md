@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ngo Finder"
-summary: "Place holder for NGO finder description"
+title: "This website"
+summary: "Rather than making the web site from scratch using HTML and CSS, I learned awesome tools called hugo and wowchemy. Making profressional looking websites is easy and fun now !! "
 authors: []
 tags: []
 categories: []
-date: 2022-07-17T10:40:05+05:30
-weight: 2
+date: 2022-07-25T11:03:38+05:30
+weight: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
