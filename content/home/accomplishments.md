@@ -28,7 +28,7 @@ item:
     date_start: '2021-01-25'
     organization_url: https://www.imb.com
     description: 'Won first prize in interschool AI competition held by IBM. Learned about Watson AI and implemented a medication prescription chatbot. '
-    #certificate_url: https://drive.google.com/file/d/12gXV_zF_ylKiCAjGe0nCACblleVaJMc-/view?usp=sharing
+    certificate_url: https://drive.google.com/file/d/12gXV_zF_ylKiCAjGe0nCACblleVaJMc-/view?usp=sharing
   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-25'
