@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - title: 1st prize Inter School AI - Thon
     organization: IBM
-    date_start: '2021-01-25'
+    date_start: '2019-10-19'
     organization_url: https://www.ibm.com
     description: 'Won first prize in interschool AI competition held by IBM. Learned about Watson AI and implemented a medication prescription chatbot. '
     certificate_url: https://drive.google.com/file/d/12gXV_zF_ylKiCAjGe0nCACblleVaJMc-/view?usp=sharing
