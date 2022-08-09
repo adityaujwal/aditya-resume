@@ -43,7 +43,7 @@ item:
     description: Learned advanced Java features like multi threaded programming.
     organization: mosh
     organization_url: https://www.codewithmosh.com
-    title: Ultimate Java: Advanced Topics
+    title: 'Ultimate Java: Advanced Topics'
   - certificate_url: https://drive.google.com/file/d/1SlvrlWYS6_hmfXFjF5gL_edsqCGxHPGO/view?usp=sharing
     date_end: ''
     date_start: '2022-01-22'
