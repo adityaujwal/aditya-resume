@@ -50,7 +50,7 @@ item:
     description: Learned Object orinted programming. Developed a simple board game as a project.
     organization: mosh
     organization_url: https://www.codewithmosh.com
-    title: Ultimate Java: Object Oriented Programming
+    title: 'Ultimate Java: Object Oriented Programming'
 
 
 design:
