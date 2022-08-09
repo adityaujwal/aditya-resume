@@ -26,22 +26,22 @@ item:
   - title: 1st prize Inter School AI - Thon
     organization: IBM
     date_start: '2021-01-25'
-    organization_url: https://www.imb.com
+    organization_url: https://www.ibm.com
     description: 'Won first prize in interschool AI competition held by IBM. Learned about Watson AI and implemented a medication prescription chatbot. '
     certificate_url: https://drive.google.com/file/d/12gXV_zF_ylKiCAjGe0nCACblleVaJMc-/view?usp=sharing
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://drive.google.com/file/d/1jDzBJyNjgueQq2C01AkO6XWOcrulARPB/view?usp=sharing
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
+    date_start: '2020-01-09'
+    description: 'Coded some AI related things using python. Got an introduction of some libraries.'
     organization: Intel
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: '3rd prize AI-thon AI Readiness'
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
+    organization: mosh
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
