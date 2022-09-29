@@ -29,7 +29,7 @@ item:
     organization_url: https://www.ibm.com
     description: 'Won first prize in interschool AI competition held by IBM. Learned about Watson AI and implemented a medication prescription chatbot. '
     certificate_url: https://drive.google.com/file/d/12gXV_zF_ylKiCAjGe0nCACblleVaJMc-/view?usp=sharing
-    weight: 5
+    weight: 1
   - certificate_url: https://drive.google.com/file/d/1jDzBJyNjgueQq2C01AkO6XWOcrulARPB/view?usp=sharing
     date_end: ''
     date_start: '2020-01-09'
@@ -38,7 +38,7 @@ item:
     organization_url: https://www.coursera.org
     title: '3rd prize AI-thon AI Readiness '
     url: ''
-    weight: 4
+    weight: 2
   - certificate_url: https://drive.google.com/file/d/10FhCcES2pTmSHlYqblS_X7noM7dso-EX/view?usp=sharing
     date_end: ''
     date_start: '2022-07-25'
@@ -54,7 +54,7 @@ item:
     organization: mosh
     organization_url: https://www.codewithmosh.com
     title: 'Ultimate Java: Object Oriented Programming'
-    weight: 2
+    weight: 4
 
 
 design:
