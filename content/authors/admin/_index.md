@@ -64,7 +64,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a high school senior at JPHS Jaipur. My majors are Math, Physics, Chemistry, English and Physical Education . He likes programming and is the founder and president of the Information Technology Club at JPHS .
-
-I love programming and also like reading. I am a member of the school Badminton team.
+I am a high school senior at JPHS Jaipur. My majors are Math, Physics, Chemistry, English and Physical Education . I love programming and am the founder revitalized  Information Technology Club at JPHS .
+I like reading and you can see some of my recommendations [here] (https://www.goodreads.com/review/list/154343613?ref=nav_mybooks)
+I enjoy hitting the shuttlecock and am a member of the school Badminton team.
 
