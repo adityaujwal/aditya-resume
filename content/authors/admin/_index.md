@@ -6,7 +6,7 @@ title: Aditya Ujwal
 superuser: true
 
 # Role/position/tagline
-role: Budding Computer Engineer
+role: Budding Programmer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,10 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
+  - Volunteering - for education
   - Web & API Development
   - Machine Learning
-  - Information Retrieval
-  - Memes
+  - Reading
 
 # Education to show in About widget
 education:
@@ -64,7 +64,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a high school senior at JPHS Jaipur. My majors are Math, Physics, Chemistry, English and Physical Education . He likes programming and is the founder and president of the Information Technology Club at JPHS .
+I am a high school senior at JPHS Jaipur. My majors are Math, Physics, Chemistry, English and Physical Education . I love programming and am the founder revitalized  Information Technology Club at JPHS .
+I like reading, you can see some of my recommendations [GoodReads](https://www.goodreads.com/review/list/154343613?ref=nav_mybooks) here.
+I enjoy hitting the shuttlecock and am a member of the school Badminton team. 
 
-I love programming and also like reading. I am a member of the school Badminton team.
+ 
 

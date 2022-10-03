@@ -2,12 +2,13 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "This website"
-summary: "Rather than making the web site from scratch using HTML and CSS, I learned awesome tools called hugo and wowchemy. Making profressional looking websites is easy and fun now !! "
+summary: "Rather than making the website from scratch using HTML and CSS like I always used to, I learned awesome tools called hugo and wowchemy. Making profressional looking websites is easy and fun now !! The site was made 
+using markdown and has all the CSS goodies baked in already. While creating this site, I also learned to automatically deploy code from github to netlify."
 authors: []
 tags: []
 categories: []
 date: 2022-07-25T11:03:38+05:30
-weight: 3
+weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
