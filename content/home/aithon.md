@@ -10,4 +10,4 @@ design:
 columns: '2'
 ---
 
-{{< gallery album="aithons" resize_options="480x360">}} 
+{{< gallery album="aithons"} 
