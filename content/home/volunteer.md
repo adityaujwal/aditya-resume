@@ -7,7 +7,7 @@ title: Volunteering
 subtitle:
 weight: 90  # section position on page
 design:
-columns: '3'
+columns: '2'
 ---
 
 {{< gallery album="volunteering" resize_options="480x360">}} 
