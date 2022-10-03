@@ -10,4 +10,4 @@ design:
 columns: '3'
 ---
 
-{{< gallery album="volunteering" resize_options="250x250">}} 
+{{< gallery album="volunteering" resize_options="480x360">}} 
