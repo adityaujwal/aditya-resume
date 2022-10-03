@@ -11,3 +11,12 @@ columns: '1'
 ---
 
 {{< gallery album="aditya" >}} 
+
+title: Gallery
+subtitle:
+weight: 90  # section position on page
+design:
+columns: '1'
+---
+
+{{< gallery album="aditya" >}} 
