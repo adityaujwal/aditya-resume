@@ -35,7 +35,7 @@ item:
     description: 'Coded some AI related things using python. Got an introduction of some libraries.'
     organization: Intel
     organization_url: https://www.coursera.org
-    title: '3rd prize AI-thon AI Readiness '
+    title: 'AI-thon : AI Readiness '
     url: ''
   - certificate_url: https://drive.google.com/file/d/10FhCcES2pTmSHlYqblS_X7noM7dso-EX/view?usp=sharing
     date_end: ''
